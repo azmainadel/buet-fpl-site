@@ -1,10 +1,10 @@
 ---
 layout: post
-title:  Amazon increase income 1.5 Million
-date:   2017-05-26 10:05:55 +0300
+title:  Test BUET FPL site is up
+date:   2019-10-01 01:05:55 +0600
 image:  post-2.jpg
-author: uixgeek
-tags:   UX design
+author: adel
+tags:   Test
 ---
 ![post-thumb]({{site.baseurl}}/assets/images/blog/post-1.jpg){:class="img-fluid rounded float-left mr-5 mb-4"}
 
