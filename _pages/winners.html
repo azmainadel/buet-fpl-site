@@ -1,0 +1,28 @@
+---
+layout: page
+title: Winners
+---
+{% if site.data.settings.winner %}
+<!-- winner -->
+<section class="section bg-cover" data-background="{{ site.baseurl }}/assets/images/backgrounds/team-bg.png">
+  <div class="container">
+    <div class="row">
+      <div class="col-12 text-center">
+        <h2 class="section-title">Monthly Winners</h2>
+      </div>
+      {% for winner-member in site.data.settings.winner %}
+      <div class="col-md-4 col-sm-6 mb-4 mb-md-0">
+        <div class="card text-center">
+          <img src="{{ site.baseurl }}/{{ winner-member.image }}" class="card-img-top">
+          <div class="card-body">
+            <h4 class="card-title">{{ winner-member.title }}</h4>
+            <p class="text-light font-secondary">{{ winner-member.designation }}</p>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</section>
+<!-- /winner -->
+{% endif %}
