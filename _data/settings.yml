@@ -37,7 +37,7 @@ hero:
   hero-title: Welcome to the <br> home of BUET FPL
 
 social:
-- {icon: "ti-facebook", link: "#"}
+- {icon: "ti-facebook", link: "https://www.facebook.com/buet.fpl"}
 # - {icon: "ti-instagram", link: "#"}
 # - {icon: "ti-dribbble", link: "#"}
 # - {icon: "ti-twitter", link: "#"}
@@ -73,17 +73,14 @@ work-process:
 
 
 winner:
-  - title : "Samiun Bhai"
-    image : "assets/images/team/test.jpg"
-    designation : "January"
+  - title : "Anayet Hossain"
+    image : "assets/images/blog/sep-w.jpg"
+    designation : "September"
     
-  - title : "Tamim Bhai"
-    image : "assets/images/team/test.jpg"
-    designation : "March"
-    
-  - title : "Ashrafur Bhai"
-    image : "assets/images/team/test.jpg"
-    designation : "May"
+  - title : "Azmain Iqtidar Nipun"
+    image : "assets/images/blog/oct-m.png"
+    designation : "October"
+  
 
 #-------------------------------
 # prize Section

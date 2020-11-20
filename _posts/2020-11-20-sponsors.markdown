@@ -1,0 +1,22 @@
+---
+layout: post
+title:  Presenting our sponsors
+subtitle: BUET FPL shakes hands with BFF and Saif Sporting Club
+date:   2020-11-20 08:15:55 +0600
+image:  2.png
+author: Arafun Tamim
+tags:   our Facebook group
+---
+![post-thumb]({{site.baseurl}}/assets/images/blog/2.png){:class="img-fluid rounded float-left mr-5 mb-4"}
+
+**BUET FPL has two new partners to provide the BUET FPL community with the best FPL experience**
+
+For the first time, winners of BUET FPL will receive prizes & the champion will receive a trophy. Thanks to Saif Sporting Club Limited for sponsoring BUET FPL 2020/21 Season.  We also express our sincere gratitude to the Bangladesh Football Federation (Bafufe) for their support & encouragement
+
+#### About BFF
+Bangladesh Football Federation (BFF; Bengali: বাফুফে) is the governing body that administrates the sport of association football in Bangladesh. It is in charge of running the country's men's and women's national teams, as well as the Bangladesh Premier League and various other competitions and tournaments. The BFF was one of founding members of the South Asian Football Federation. It is based at BFF Bhaban, in the Motijheel Thana of the country's capital, Dhaka.
+
+#### About Saif Sporting Club
+Saif Sporting Club is an association football club based in Dhaka, Bangladesh. It currently competes in the Bangladesh Football Premier League, the top flight Bangladesh.
+
+The club is owned by *Saif Powertec Limited*. The main goal of the club is to bring professionalism in every step.
