@@ -3,9 +3,9 @@
 
 title: BUET FPL
 logo: logo.png
-email: test@test.com
-phone: +880 1711 111 111
-address: BUET
+email: fplbuet@gmail.com
+page: https://www.facebook.com/buet.fpl
+group:
 
 menu:
 - {name: About, link: '/about/'}
@@ -48,10 +48,11 @@ social:
 
 # About Section
 blurb:
-  Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-
+  We are here to make Fantasy Premier League fun and gainful. All BUET students & alumnis are welcomed 
+  to join our Facebook group to compete in different BUET FPL leagues and fight for the glory!
+  Discuss football & FPL with us. It’s FREE to play and you can win great prizes!
 blurb-btn-link: '/about'
-blurb-btn-name: Know more
+blurb-btn-name: Learn more
 
 
 # About Page
@@ -87,12 +88,13 @@ winner:
 #-------------------------------
 # prize Section
 
-prize-title: Prizes
+prize-title: Tournaments
 prize:
-- {name: 1 koti taka, date: '1st', organization: 'Mandatory Pogba jersey'}
-- {name: 1 koti taka, date: '2nd', organization: 'Mandatory Pogba jersey'}
-- {name: 1 koti taka, date: '3rd', organization: 'Mandatory Pogba jersey'}
-- {name: 1 koti taka, date: 'MVP', organization: 'Mandatory Pogba jersey'}
+- {name: Classic Top 10, date: '1', organization: 'Defeat hundreds to claim the glory the classic way'}
+- {name: Head-to-Head, date: '2', organization: 'Bring the opponents down...one by one'}
+- {name: The Walking Dead, date: '3', organization: 'Run, do not walk. Avoid falling behind'}
+- {name: Six Hall Champions, date: '4', organization: 'Claim the crown as the FPL king of your hall'}
+- {name: Cup MVP, date: '5', organization: 'The best of the best of all the halls'}
 
 
 #-------------------------------
@@ -101,11 +103,11 @@ prize:
 testimonial-items:
   - name: "Bangladesh Football Federation"
     image: "assets/images/testimonial/bff.png"
-    designation : "Title Sponsor"
+    designation : "Powered by"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
   
-  - name: "Bangladesh Football Federation"
-    image: "assets/images/testimonial/bff.png"
-    designation : "Title Sponsor"
+  - name: "Saif Sporting Club"
+    image: "assets/images/testimonial/ssc.png"
+    designation : "Sponsored by"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     

@@ -10,10 +10,10 @@
         {% for testimonial-item in site.data.settings.testimonial-items %}
         <!-- slider-item -->
         <div class="text-center testimonial-content">
+          <h5 class="text-light mb-4">{{ testimonial-item.designation }}</h5>
           <img class="img-fluid mb-4 d-inline-block" src="{{ site.baseurl }}/{{ testimonial-item.image }}"
             alt="{{ testimonial-item.name }}">
           <h4 class="text-white">{{ testimonial-item.name }}</h4>
-          <h6 class="text-light mb-4">{{ testimonial-item.designation }}</h6>
         </div>
         {% endfor %}
       </div>
