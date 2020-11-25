@@ -95,16 +95,15 @@ prize:
 
 
 #-------------------------------
-# Testimonials Section
+# Sponsors Section
 
-testimonial-items:
-  - name: "Bangladesh Football Federation"
-    image: "assets/images/testimonial/bff.png"
-    designation : "Powered by"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
-  
+sponsor-items:
   - name: "Saif Sporting Club"
     image: "assets/images/testimonial/ssc.png"
     designation : "Sponsored by"
     content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
     
+  - name: "Bangladesh Football Federation"
+    image: "assets/images/testimonial/bff.png"
+    designation : "Powered by"
+    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, <strong>quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.</strong> Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur."
