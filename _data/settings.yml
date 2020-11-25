@@ -31,10 +31,10 @@ disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
 
 
 #-------------------------------
-# Hero Section
+# Header Section
 
-hero:
-  hero-title: Welcome to the <br> home of BUET FPL
+banner:
+  banner-title: Welcome to the <br> home of BUET FPL
 
 social:
 - {icon: "ti-facebook", link: "https://www.facebook.com/buet.fpl"}
@@ -54,24 +54,6 @@ blurb:
 blurb-btn-link: '/about'
 blurb-btn-name: Learn more
 
-
-# About Page
-
-# Work Process Section
-work-process:
-  - title : "Create Team"
-    icon : "assets/images/icons/plan.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Tinker and Transfer"
-    icon : "assets/images/icons/design.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-    
-  - title : "Win"
-    icon : "assets/images/icons/print.png"
-    content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
-
-
 winner:
   - title : "Anayet Hossain"
     image : "assets/images/blog/sep-w.jpg"
@@ -83,10 +65,10 @@ winner:
   
 
 #-------------------------------
-# prize Section
+# Tournaments Section
 
-prize-title: Tournaments
-prize:
+tournament-title: Tournaments
+tournament:
 - {name: Classic Top 10, date: '1', organization: 'Defeat hundreds to claim the glory the classic way'}
 - {name: Head-to-Head, date: '2', organization: 'Bring the opponents down...one by one'}
 - {name: The Walking Dead, date: '3', organization: 'Run, do not walk. Avoid falling behind'}

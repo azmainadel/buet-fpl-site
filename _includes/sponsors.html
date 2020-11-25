@@ -10,10 +10,10 @@
         {% for sponsor-item in site.data.settings.sponsor-items %}
         <!-- slider-item -->
         <div class="text-center testimonial-content">
-          <h5 class="text-light mb-4">{{ sponsor-item.designation }}</h5>
+          <h4 class="text-light mb-4">{{ sponsor-item.designation }}</h4>
           <img class="img-fluid mb-4 d-inline-block" src="{{ site.baseurl }}/{{ sponsor-item.image }}"
             alt="{{ sponsor-item.name }}">
-          <h4 class="text-white">{{ sponsor-item.name }}</h4>
+          <h3 class="text-white">{{ sponsor-item.name }}</h3>
         </div>
         {% endfor %}
       </div>
