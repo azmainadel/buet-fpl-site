@@ -1,21 +1,21 @@
-{% if site.data.settings.prize %}
-<!-- prize -->
+{% if site.data.settings.tournament %}
+<!-- tournament -->
 <section class="section position-relative">
   <div class="container">
     <div class="row">
       <div class="col-lg-12 text-center">
-        <h2 class="section-title">{{ site.data.settings.prize-title }}</h2>
+        <h2 class="section-title">{{ site.data.settings.tournament-title }}</h2>
       </div>
-      {% for prize in site.data.settings.prize %}
+      {% for tournament in site.data.settings.tournament %}
       <div class="col-lg-6 col-md-6 mb-80">
         <div class="d-flex">
           <div class="mr-lg-5 mr-3">
             <i class="ti-medall icon icon-light icon-bg bg-white shadow rounded-circle d-block"></i>
           </div>
           <div>
-            <p class="text-dark mb-1">{{ prize.date }}</p>
-            <h4>{{ prize.name }}</h4>
-            <p class="mb-0 text-light">{{ prize.organization }}</p>
+            <p class="text-dark mb-1">{{ tournament.date }}</p>
+            <h4>{{ tournament.name }}</h4>
+            <p class="mb-0 text-light">{{ tournament.organization }}</p>
           </div>
         </div>
       </div>
@@ -25,5 +25,5 @@
   <!-- bg image -->
   <img class="img-fluid edu-bg-image w-100" src="{{ site.baseurl }}/assets/images/backgrounds/education-bg.png" alt="bg-image">
 </section>
-<!-- /prize -->
+<!-- /tournament -->
 {% endif %}

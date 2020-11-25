@@ -1,5 +1,5 @@
-{% if site.data.settings.testimonial-items %}
-<!-- testimonial -->
+{% if site.data.settings.sponsor-items %}
+<!-- sponsor -->
 <section class="section bg-primary position-relative testimonial-bg-shapes">
   <div class="container">
     <div class="row">
@@ -7,13 +7,13 @@
         <h2 class="section-title text-white mb-5">Sponsors</h2>
       </div>
       <div class="col-lg-10 mx-auto testimonial-slider">
-        {% for testimonial-item in site.data.settings.testimonial-items %}
+        {% for sponsor-item in site.data.settings.sponsor-items %}
         <!-- slider-item -->
         <div class="text-center testimonial-content">
-          <h5 class="text-light mb-4">{{ testimonial-item.designation }}</h5>
-          <img class="img-fluid mb-4 d-inline-block" src="{{ site.baseurl }}/{{ testimonial-item.image }}"
-            alt="{{ testimonial-item.name }}">
-          <h4 class="text-white">{{ testimonial-item.name }}</h4>
+          <h4 class="text-light mb-4">{{ sponsor-item.designation }}</h4>
+          <img class="img-fluid mb-4 d-inline-block" src="{{ site.baseurl }}/{{ sponsor-item.image }}"
+            alt="{{ sponsor-item.name }}">
+          <h3 class="text-white">{{ sponsor-item.name }}</h3>
         </div>
         {% endfor %}
       </div>
@@ -22,5 +22,5 @@
   <!-- bg shapes -->
   <img src="{{ site.baseurl }}/assets/images/backgrounds/map.png" alt="map" class="img-fluid bg-map">
 </section>
-<!-- /testimonial -->
+<!-- /sponsor -->
 {% endif %}
