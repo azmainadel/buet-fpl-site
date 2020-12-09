@@ -20,4 +20,8 @@
   <link rel="shortcut icon" href="{{ 'assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
   <link rel="icon" href="{{ 'assets/images/favicon.ico' | relative_url }}" type="image/x-icon">
 
+  {% if site.google-analytics %}
+    {% include google-analytics.html %}
+  {% endif %}
+
 </head>
