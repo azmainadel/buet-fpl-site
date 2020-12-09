@@ -49,8 +49,8 @@ social:
 # About Section
 blurb:
   We are here to make Fantasy Premier League fun and gainful. All BUET students & alumnis are welcomed 
-  to join our Facebook group to compete in different BUET FPL leagues and fight for the glory!
-  Discuss football & FPL with us. It’s FREE to play and you can win great prizes!
+  to join our Facebook group to compete in different BUET FPL leagues and fight for the glory!<br>
+  Discuss football & FPL with us. <br> It’s FREE to play and you can win great prizes!
 blurb-btn-link: '/about'
 blurb-btn-name: Learn more
 
@@ -72,8 +72,8 @@ tournament:
 - {name: Classic Top 10, date: '1', organization: 'Defeat hundreds to claim the glory the classic way'}
 - {name: Head-to-Head, date: '2', organization: 'Bring the opponents down...one by one'}
 - {name: The Walking Dead, date: '3', organization: 'Run, do not walk. Avoid falling behind'}
-- {name: Six Hall Champions, date: '4', organization: 'Claim the crown as the FPL king of your hall'}
-- {name: Cup MVP, date: '5', organization: 'The best of the best of all the halls'}
+- {name: Six Hall Champions (BHFFC), date: '4', organization: 'Claim the crown as the FPL king of your hall'}
+- {name: BHFFC Cup MVP, date: '5', organization: 'The best of the best of all the halls'}
 
 
 #-------------------------------
